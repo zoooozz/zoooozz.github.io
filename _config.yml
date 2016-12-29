@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://www.liujiebin.com
+# url: http://www.liujiebin.com
 date_format: "ordinal"
 title: 东流的博客
 subtitle: "纵使没有阳光,仍旧持续歌唱"
