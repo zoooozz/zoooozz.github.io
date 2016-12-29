@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-# baseurl:
-# url: http://www.liujiebin.com
+baseurl:
+url: http://www.liujiebin.com
 date_format: "ordinal"
 title: 东流的博客
 subtitle: "纵使没有阳光,仍旧持续歌唱"
@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author:
+author: zoooozz
 organization: bilibili, Inc.
 organization_url: https://www.bilibili.com
 location: Shanghai, China
