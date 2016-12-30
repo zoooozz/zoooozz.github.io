@@ -12,11 +12,6 @@ permalink: /about/
 
 不予逃避。
 
-## 坚信
-
-* 命运只掌握在自己手里
-* 努力改变人生
-
 ## 联系
 
 * GitHub：[@东流](https://github.com/zoooozz)
