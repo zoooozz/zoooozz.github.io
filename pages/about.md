@@ -15,8 +15,11 @@ permalink: /about/
 ## 联系
 
 * GitHub：[@东流](https://github.com/zoooozz)
+* space : [@东流](http://space.bilibili.com/8746433)
 * 博客：[{{ site.title }}]({{ site.url }})
-* 哔哩哔哩: [@东流](http://space.bilibili.com/8746433)
+* 站点 :[一个神经病](http://www.xiangfeifei.com/)
+
+
 
 ## Skill Keywords
 
