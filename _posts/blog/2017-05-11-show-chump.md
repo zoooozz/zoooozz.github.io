@@ -7,8 +7,8 @@ keywords: 东流
 ---
 
 
-<audio autoplay="autoplay">
-    <source src="//music.163.com/outchain/player?type=2&id=5255987&auto=1&height=66" type="audio/mp3">
-</audio>
+<embed autostart="true" hidden="true" loop="true" src="http://ois5yh1xg.bkt.clouddn.com/%E5%8D%A2%E5%86%A0%E5%BB%B7%E4%B8%80%E7%94%9F%E6%89%80%E7%88%B1.mp3"></embed>
+
+
 
 //TODO
