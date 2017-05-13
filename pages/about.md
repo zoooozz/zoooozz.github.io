@@ -1,9 +1,12 @@
 ---
 layout: page
-title: 关于
-menu: About
+title: 关于我
+description: 东流
+keywords: 东流 哔哩哔哩, anohana
+comments: true
+menu: 关于
+permalink: /about/
 ---
-{% assign current_year = site.time | date: '%Y' %}
 
 东流
 ===
@@ -29,4 +32,6 @@ menu: About
 ## LIKE
 
 * 神经病 :  [一个神经病](http://www.xiangfeifei.com/)
+
+
 
