@@ -1,37 +1,32 @@
 ---
 layout: page
-title: 关于我
-description: 东流
-keywords: 东流 哔哩哔哩, anohana
-comments: true
-menu: 关于
-permalink: /about/
+title: 关于
+menu: About
 ---
+{% assign current_year = site.time | date: '%Y' %}
 
-若此情赋予东流兮。
+东流
+===
+男 90后
 
-不予逃避。
+## 联系方式
 
-## 联系
+- 邮箱：zoooozz#163.com (#替换成@)
+- 主页：[http://liujiebin.com](http://liujiebin.com)
+- 微博：[@东流](http://space.bilibili.com/8746433/#!/)
 
-* GitHub：[@东流](https://github.com/zoooozz)
-* space : [@东流](http://space.bilibili.com/8746433)
-* 博客：[{{ site.title }}]({{ site.url }})
+## 概况
+
+计算机专业,3年在职工作经验,喜欢研究热爱代码,目前贡献于B站
 
 
-
-## Skill Keywords
-
-#### Software Engineer Keywords
+## keywords
 <div class="btn-inline">
-    {% for keyword in site.skill_software_keywords %}
-    <button class="btn btn-outline" type="button">{{ keyword }}</button>
-    {% endfor %}
+{% for keyword in site.skill_keywords %} <button class="btn btn-outline" type="button">{{ keyword }}</button> {% endfor %}
 </div>
 
-#### Windows Developer Keywords
-<div class="btn-inline">
-    {% for keyword in site.skill_windows_keywords %}
-    <button class="btn btn-outline" type="button">{{ keyword }}</button>
-    {% endfor %}
-</div>
+
+## LIKE
+
+* 神经病 :  [一个神经病](http://www.xiangfeifei.com/)
+
