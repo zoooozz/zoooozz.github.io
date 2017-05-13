@@ -4,10 +4,10 @@
 baseurl:
 url: http://www.liujiebin.com
 date_format: "ordinal"
-title: 东流的博客
+title: Anohana | 东流的博客
 subtitle: "纵使没有阳光,仍旧持续歌唱"
-description: "东流的个人博客"
-keywords: 东流, php, bilibili,柳杰彬
+description: "东流(anohana)，PHP工程师，从事web相关的开发工作 目前贡献于B站"
+keywords: 东流, php, bilibili
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -28,23 +28,23 @@ email: zoooozz@163.com
 navs:
   -
     href: /
-    label: 首页
+    label: Home
 
   -
     href: /categories/
-    label: 分类
+    label: categories
 
   -
     href: /wiki/
-    label: 维基
+    label: wiki
 
   -
-    href: /links/
-    label: 链接
+    href:  http://space.bilibili.com/8746433/#!/
+    label: space
 
   -
     href: /about/
-    label: 关于
+    label: about
 
 # ---------------- #
 #       RSS        #
@@ -103,4 +103,4 @@ github_username: zoooozz
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [PHP, HTML5, javascript,Golang,swoole]
+skill_software_keywords: []

@@ -15,18 +15,12 @@ permalink: /about/
 ## 联系方式
 
 - 邮箱：zoooozz#163.com (#替换成@)
-- 主页：[http://liujiebin.com](http://liujiebin.com)
-- 微博：[@东流](http://space.bilibili.com/8746433/#!/)
+- 主页：[http://www.liujiebin.com](http://liujiebin.com)
+- 空间：[@东流](http://space.bilibili.com/8746433/#!/)
 
 ## 概况
 
 计算机专业,3年在职工作经验,喜欢研究热爱代码,目前贡献于B站
-
-
-## keywords
-<div class="btn-inline">
-{% for keyword in site.skill_keywords %} <button class="btn btn-outline" type="button">{{ keyword }}</button> {% endfor %}
-</div>
 
 
 ## LIKE
