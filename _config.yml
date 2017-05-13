@@ -4,8 +4,8 @@
 baseurl:
 url: http://www.liujiebin.com
 date_format: "ordinal"
-title: Anohana | 东流的博客
-subtitle: "纵使没有阳光,仍旧持续歌唱"
+title: Anohana
+subtitle: ""
 description: "东流(anohana)，PHP工程师，从事web相关的开发工作 目前贡献于B站"
 keywords: 东流, php, bilibili
 favicon: /favicon.ico
