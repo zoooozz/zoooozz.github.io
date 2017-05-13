@@ -1,6 +1,6 @@
 ---
 layout: post
-title: template page
+title: 东流
 categories: [cate1, cate2]
 description: some word here
 keywords: keyword1, keyword2
