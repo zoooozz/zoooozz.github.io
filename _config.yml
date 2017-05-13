@@ -5,13 +5,13 @@ baseurl:
 url: http://www.liujiebin.com
 date_format: "ordinal"
 title: Anohana
-subtitle: ""
+subtitle: "Code Artisan"
 description: "东流(anohana)，PHP工程师，从事web相关的开发工作 目前贡献于B站"
 keywords: 东流, php, bilibili
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 5
+side_bar_repo_limit: 3
 
 # ---------------- #
 #      Author      #
