@@ -15,6 +15,7 @@ permalink: /about/
 ## 联系方式
 
 - 邮箱：zoooozz#163.com (#替换成@)
+- qq   52727603
 - 主页：[http://www.liujiebin.com](http://liujiebin.com)
 - 空间：[@东流](http://space.bilibili.com/8746433/#!/)
 
