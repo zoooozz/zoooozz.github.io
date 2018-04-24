@@ -27,6 +27,7 @@ permalink: /about/
 ## LIKE
 
 * 神经病 :  [一个神经病](http://www.xiangfeifei.com/)
+* 谢权'SELF[遇见你，遇见未来！](https://xiequan.info)
 
 
 
